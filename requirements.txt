@@ -1,0 +1,3 @@
+Username (leave blank to use 'vineet'): vineet
+Email address: vineetpundpal@gmail.com
+passwd: 123456789
